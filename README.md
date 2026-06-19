@@ -1,4 +1,4 @@
-# https://github.com/dsharabidze/dispatch-hub
+# ნაღდი repository-ს ლინკი -- https://github.com/dsharabidze/dispatch-hub
 
 
 
